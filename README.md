@@ -1,16 +1,20 @@
 ## Hi there 👋
 Hi there! 👋 I'm Jusaila
 FullStack Developer - Laravel & React
+
 👨‍💻 About Me
+
 I'm a passionate Web Developer with 1+ years of experience specializing in Laravel and React js. I focus on creating enterprise-grade solutions that make a difference.
 
 
 
 💻 Tech Stack
+
 Website Development
 Php , Laravel , React js, Tailwindcss
 
 Backend & Databases
+
 mySql, mongodb
 
 Tools & Others
